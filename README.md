@@ -3,15 +3,7 @@
 
 | Campo | Descrição |
 | :--- | :--- |
-| **Integrantes** | Gabriel Barbosa Furin - RM: 572941
-
-Gabriel de Almeida Santos​ - RM: 569395
-
-Herbert Soares de Jesus​ - RM: 571507
-
-Lucas Kiodi Moraca - RM: 571004
-
-Renan Fracalossi Mano da Silva​ - RM: 569610 |
+| **Integrantes** | Gabriel Barbosa Furin - RM: 572941; Gabriel de Almeida Santos​ - RM: 569395; Herbert Soares de Jesus​ - RM: 571507; Lucas Kiodi Moraca - RM: 571004; Renan Fracalossi Mano da Silva​ - RM: 569610 |
 | **Projeto** | ChatBot de Atendimento — ChargeGrid Intelligence |
 | **Parceria** | GoodWe & FIAP |
 | **Fase** | Fase 1 — Sprint 1 (S7) |
